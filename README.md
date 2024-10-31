@@ -6,12 +6,9 @@ Frontend-разработчица
 
 20 лет, студентка, Ростов-на-Дону. <br /><br />
 Изучаю технологии Frontend-разработки 1 год. <br />Опыт коммерческой разработки - 3 месяца.
-
-
-✉️  Вы можете связаться со мной: 
 [![Gmail Badge](https://img.shields.io/badge/-stasya200411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stasya200411@gmail.com)](mailto:stasya200411@gmail.com)  <img alt="Static Badge" src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white&logoSize=auto&label=yaonglax&labelColor=26A5E4&color=ffffff">
 
-### Навыки
+### <h2>Навыки</h2>
   <br />
  <a href="https://github.com/yaonglax" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaonglax&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -49,4 +46,6 @@ Frontend-разработчица
 
 <b>Топ репозитории</b>
 
-<div width="100%" align="center"><a href="https://github.com/yaonglax/recipe-finder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yaonglax&repo=recipe-finder&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div><div width="100%" align="center"><a href="https://github.com/yaonglax/online-store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yaonglax&repo=online-store&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/yaonglax/online-store" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yaonglax&repo=online-store&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/yaonglax/desktop-music-player" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yaonglax&repo=desktop-music-player&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/yaonglax/recipe-finder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yaonglax&repo=recipe-finder&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
