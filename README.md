@@ -1,5 +1,6 @@
-<h1 align="center">Привет, я Настя!</h1>
-<h3 align="center">Фронтенд-разработчица</h3>
+<h1 align="left">Привет, я Настя!</h1>
+<hr/>
+<h3 align="left">Фронтенд-разработчица</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
