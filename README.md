@@ -7,7 +7,7 @@ Frontend-разработчица
 20 лет, студентка, Ростов-на-Дону. Изучаю технологии Frontend-разработки 1 год. Опыт коммерческой разработки - 3 месяца.
 
 * ✉️  Вы можете связаться со мной: 
-[![Gmail Badge](https://img.shields.io/badge/-stasya200411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stasya200411@gmail.com)](mailto:stasya200411@gmail.com)]![Static Badge](https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white&logoSize=auto&label=yaonglax&labelColor=26A5E4&color=ffffff)
+[![Gmail Badge](https://img.shields.io/badge/-stasya200411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stasya200411@gmail.com)](mailto:stasya200411@gmail.com)(https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white&logoSize=auto&label=yaonglax&labelColor=26A5E4&color=ffffff)
 
 * 🧠  I'm learning ReactJS
 
