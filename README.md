@@ -6,6 +6,7 @@ Frontend-разработчица
 
 20 лет, студентка, Ростов-на-Дону. <br /><br />
 Изучаю технологии Frontend-разработки 1 год. <br />Опыт коммерческой разработки - 3 месяца.
+<br /><br />
 [![Gmail Badge](https://img.shields.io/badge/-stasya200411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stasya200411@gmail.com)](mailto:stasya200411@gmail.com)  <img alt="Static Badge" src="https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white&logoSize=auto&label=yaonglax&labelColor=26A5E4&color=ffffff">
 
 ### <h2>Навыки</h2>
