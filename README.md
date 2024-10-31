@@ -9,7 +9,7 @@ Frontend-разработчица
 * ✉️  Вы можете связаться со мной: 
 [![Gmail Badge](https://img.shields.io/badge/-stasya200411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stasya200411@gmail.com)](mailto:stasya200411@gmail.com)
 
-(https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white&logoSize=auto&label=yaonglax&labelColor=26A5E4&color=ffffff)]
+[(https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white&logoSize=auto&label=yaonglax&labelColor=26A5E4&color=ffffff)]
 
 * 🧠  I'm learning ReactJS
 
