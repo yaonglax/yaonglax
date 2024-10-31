@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Анастасия
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Анастасия
 =================================================================================================================================
 
 Frontend-разработчица
@@ -6,7 +6,8 @@ Frontend-разработчица
 
 20 лет, студентка, Ростов-на-Дону. Изучаю технологии Frontend-разработки 1 год. Опыт коммерческой разработки - 3 месяца.
 
-* ✉️  You can contact me at [stasya200411@gmail.com](mailto:stasya200411@gmail.com)
+* ✉️  Вы можете связаться со мной: [stasya200411@gmail.com](mailto:stasya200411@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-stasya200411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stasya200411@gmail.com)](mailto:stasya200411@gmail.com)
 * 🧠  I'm learning ReactJS
 
 ### Skills
